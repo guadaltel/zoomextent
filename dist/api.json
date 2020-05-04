@@ -20,10 +20,10 @@
   },
   "metadata": {
     "name": "ZoomExtent",
-    "description": "Description of the plugin",
-    "text": "A full text about plugin",
+    "description": "Zoom ventana",
+    "text": "Realiza un zoom a la ventana rectangular que se indica en el mapa",
     "version": "1.0.0",
-    "date": "",
+    "date": "Febrero, 2019",
     "author": "",
     "org": "",
     "tags": "mapea,plugin",
